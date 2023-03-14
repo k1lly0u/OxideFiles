@@ -1,0 +1,9 @@
+[
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.Core.dll",
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.CSharp.dll",
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.MySql.dll",
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.References.dll",
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.Rust.dll",
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.SQLite.dll",
+  "https://raw.githubusercontent.com/k1lly0u/OxideFiles/main/Oxide.Unity.dll",
+]
